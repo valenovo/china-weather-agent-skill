@@ -1,0 +1,4 @@
+interface:
+  display_name: "中国官方天气"
+  short_description: "查询中国城市天气全国态势预警雷达卫星官方产品和中国气象局页面探测"
+  default_prompt: "使用 $china-weather 查询北京到上海明天下午是否有雨，并查看相关预警、雷达和可用的官方页面数据。"

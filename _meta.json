@@ -1,0 +1,11 @@
+{
+  "owner": "community",
+  "slug": "china-weather-agent-skill",
+  "displayName": "中国官方天气",
+  "latest": {
+    "version": "1.6.0",
+    "publishedAt": 1779049152000,
+    "commit": "public"
+  },
+  "history": []
+}
