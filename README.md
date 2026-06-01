@@ -1,5 +1,7 @@
 # China Weather Agent Skill
 
+[同类 AI Agent Skills 合集仓库：valenovo/ai-agent-skills](https://github.com/valenovo/ai-agent-skills)
+
 面向智能体的中国公开天气查询技能。项目把国家气象中心 / 中央气象台、中国气象局天气页面、中国天气网的公开天气信息整理为结构化 JSON，方便 OpenClaw、Codex 或其他 agent 在行程规划、通勤判断、户外活动和天气态势查询中调用。
 
 本项目不是官方服务，也不代表任何数据来源网站。它只按需读取公开页面和公开接口，不提供商业气象决策、应急指挥、航空铁路运行或交通管制依据。
